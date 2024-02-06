@@ -1,0 +1,22 @@
+/* RelaxationExercises.css */
+.relaxation-exercises-container {
+    margin-top: 20px;
+  }
+  
+  .relaxation-exercises-input {
+    margin-bottom: 10px;
+  }
+  
+  .relaxation-exercises-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .relaxation-exercises-item {
+    margin-bottom: 5px;
+  }
+  
+  .relaxation-exercises-item button {
+    margin-left: 10px;
+  }
+  

@@ -1,0 +1,22 @@
+/* ActivityPlanning.css */
+.activity-planning-container {
+    margin-top: 20px;
+  }
+  
+  .activity-planning-input {
+    margin-bottom: 10px;
+  }
+  
+  .activity-planning-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .activity-planning-item {
+    margin-bottom: 5px;
+  }
+  
+  .activity-planning-item button {
+    margin-left: 10px;
+  }
+  

@@ -1,0 +1,36 @@
+/* Gratitude.css */
+.gratitude-container {
+    margin-top: 20px;
+  }
+  
+  .gratitude-input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .gratitude-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .gratitude-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .gratitude-item button {
+    background-color: #f44336;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  .gratitude-item button:hover {
+    background-color: #d32f2f;
+  }
+  

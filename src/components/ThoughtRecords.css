@@ -1,0 +1,34 @@
+/* ThoughtRecords.css */
+.thought-records-container {
+    margin-top: 20px;
+  }
+  
+  .thought-records-form {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .thought-records-form label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .thought-records-form input[type="text"],
+  .thought-records-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+  }
+  
+  .thought-records-form button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .thought-records-form button:hover {
+    background-color: #0056b3;
+  }
+  

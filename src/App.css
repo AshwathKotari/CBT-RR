@@ -1,0 +1,78 @@
+/* App.css */
+
+/* Body styles */
+.body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* Header styles */
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+
+/* Container styles */
+.container {
+  display: flex;
+  flex: 1;
+  background-color: lightskyblue;
+}
+
+/* Navbar styles */
+.navbar {
+  width: 25%;
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+}
+
+/* Routes styles */
+.routes {
+  width: 75%;
+  padding: 20px;
+}
+
+/* Navigation links styles */
+.links {
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+  padding: 3px;
+}
+
+.links a {
+  color: #fff;
+  text-decoration: none;
+  padding: 10px 0;
+}
+
+.links a:hover {
+  background-color: #40679d;
+}
+
+/* Footer styles */
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 0px;
+  text-align: center;
+}
+
+/* Media queries for responsiveness */
+@media (min-width: 768px) {
+  .container {
+    flex-direction: row;
+  }
+  
+  .navbar {
+    width: 25%;
+  }
+  
+  .routes {
+    width: 75%;
+  }
+}
