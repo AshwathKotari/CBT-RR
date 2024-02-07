@@ -1,6 +1,6 @@
 // ThoughtRecords.js
 import React, { useState } from 'react';
-import './ThoughtRecords.css'; // Import the CSS file
+import './ThoughtRecords.css';
 
 const ThoughtRecords = () => {
   const [thought, setThought] = useState('');

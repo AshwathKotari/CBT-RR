@@ -1,6 +1,6 @@
-// ActivityPlanning.js
+
 import React, { useState } from 'react';
-import './ActivityPlanning.css'; // Import CSS file
+import './ActivityPlanning.css'; 
 
 const ActivityPlanning = () => {
   const [activity, setActivity] = useState('');

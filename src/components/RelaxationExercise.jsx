@@ -1,6 +1,6 @@
-// RelaxationExercises.js
+
 import React, { useState } from 'react';
-import './RelaxationExercises.css'; // Import CSS file
+import './RelaxationExercises.css';
 
 const RelaxationExercises = () => {
   const [exercise, setExercise] = useState('');
